@@ -1,0 +1,21 @@
+.cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main{
+    background-color: bisque;
+    width: 75%;
+    height: 75%;
+    border: 3px solid black;
+    font-size: 200%;
+    text-align: center;
+}
+button{
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 50px;
+    cursor: pointer;
+    color: white;
+}
